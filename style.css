@@ -1,0 +1,76 @@
+body {
+    background-color: #BFBFBF;
+  }
+
+  .header{
+    background-color: #3E3E40;
+    border: 1px black;
+  }
+
+  .meta img{
+    width: 15%;
+    margin-left: 42%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  .titulo1 h1{
+    margin-left: 35%;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    color: #0D0D0D;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    align-items: flex-start;
+    margin-top: 0;
+}
+
+.box {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #BFBFBF;
+    border: 1px solid #BFBFBF;
+    text-align: center;
+    color: black;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: large;
+}
+
+.box p{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: large;
+    text-align: justify;
+}
+
+.by{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+    color: black;
+}
+
+.create{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+    color: purple;
+}
